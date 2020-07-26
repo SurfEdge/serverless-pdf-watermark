@@ -1,0 +1,11 @@
+service: serverless-pdf-watermark
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+functions:
+  watermarkpdf:
+    handler: handler.watermark
+
+plugins:
+  - serverless-offline
