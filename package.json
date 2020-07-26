@@ -1,0 +1,19 @@
+{
+  "name": "serverless-pdf-watermark",
+  "version": "1.0.0",
+  "description": "A simple serverless function to set a watermark to an existing pdf and return the updated pdf",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surfedge/serverless-pdf-watermark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surfedge/serverless-pdf-watermark/issues"
+  },
+  "homepage": "https://github.com/surfedge/serverless-pdf-watermark#readme"
+}
