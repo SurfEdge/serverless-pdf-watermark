@@ -1,6 +1,8 @@
 # Serverless PDF Watermark 📝📄
 A simple serverless function to set a watermark to an existing pdf and return the updated pdf.
 
+⚠️ Test and use as required ⚠️
+
 ## Usage
 POST /watermark
 
