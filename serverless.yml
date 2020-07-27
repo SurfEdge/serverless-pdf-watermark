@@ -6,6 +6,10 @@ provider:
 functions:
   watermarkpdf:
     handler: handler.watermark
+    events:
+      - http:
+          path: watermark
+          method: post
 
 plugins:
   - serverless-offline

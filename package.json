@@ -18,5 +18,8 @@
   "homepage": "https://github.com/surfedge/serverless-pdf-watermark#readme",
   "devDependencies": {
     "serverless-offline": "^6.5.0"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.9.0"
   }
 }
