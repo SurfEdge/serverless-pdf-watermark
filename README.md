@@ -22,3 +22,4 @@ Response
 ```
 
 ## Sample Preview
+<img src="https://raw.githubusercontent.com/SurfEdge/serverless-pdf-watermark/master/preview.png"/>
