@@ -12,9 +12,16 @@ Body
     "x": 10,
     "y": 10,
     "watermark": "Downloaded by name here... Watermark text",
-    "pdf": "JVBERi0xLjQKJcOkw7zD
+    "font": "Courier",
+    "pdf": "JVBERi0xLjQKJcOkw7zD"
 }
 ```
+
+### Supported Fonts
+- Courier
+- Helvetica
+- Times
+
 Response 
 ```javascript
 {
